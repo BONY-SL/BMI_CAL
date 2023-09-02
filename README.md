@@ -1,4 +1,3 @@
 # BMI_CAL
-
-![login](https://github.com/BONY-SL/BMI_CAL/assets/143308037/16e9716f-d78f-4ad5-bd1d-2677a46edc96)
-![caldash](https://github.com/BONY-SL/BMI_CAL/assets/143308037/332c8102-d2d8-4491-87a0-153e2526946f)
+![login](https://github.com/BONY-SL/BMI_CAL/assets/143308037/38a80824-6a09-4ce3-96cc-6f008bdffe73)
+![caldash](https://github.com/BONY-SL/BMI_CAL/assets/143308037/10873978-4d26-40f8-b0de-5a4cb45968a0)
