@@ -4,10 +4,9 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane id="loginPaneID" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="760.0" styleClass="anchor" stylesheets="@style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane id="loginPaneID" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="760.0" styleClass="anchor" stylesheets="@style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.bmi_cal.HelloController">
    <children>
-      <Button layoutX="300.0" layoutY="49.0" mnemonicParsing="false" prefHeight="65.0" prefWidth="161.0" style="-fx-background-color: #56fc03; -fx-background-radius: 20;" text="Login">
+      <Button layoutX="300.0" layoutY="49.0" mnemonicParsing="false" onAction="#loginToDashBoard" prefHeight="65.0" prefWidth="161.0" style="-fx-background-color: #56fc03; -fx-background-radius: 20;" text="Login">
          <font>
             <Font name="System Italic" size="36.0" />
          </font>
