@@ -1,0 +1,9 @@
+.anchor {
+    -fx-background-image:url('back.jpg');
+}
+.dashboard{
+    -fx-background-image: url('new.png');
+}
+.backbutton{
+    -fx-background-image: url('logout.png');
+}
