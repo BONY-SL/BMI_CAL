@@ -66,7 +66,7 @@
       </Button>
       <Label fx:id="answer" alignment="CENTER" layoutX="471.0" layoutY="292.0" prefHeight="65.0" prefWidth="265.0" text="Result">
          <font>
-            <Font name="System Bold Italic" size="32.0" />
+            <Font name="System Bold Italic" size="24.0" />
          </font>
       </Label>
    </children>

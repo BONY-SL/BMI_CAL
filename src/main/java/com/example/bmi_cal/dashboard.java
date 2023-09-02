@@ -64,8 +64,9 @@ public class dashboard {
                 double value1 = Double.parseDouble(Weight);
                 double value2 = Double.parseDouble(Height);
                 double heightmeater=value2/100.0;
-                System.out.println(heightmeater);
-                System.out.println(value1);
+
+               // System.out.println(heightmeater);
+               // System.out.println(value1);
                     double ans=(value1)/(heightmeater*heightmeater);
 
                     String text = Double.toString(ans);
